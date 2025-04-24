@@ -9,5 +9,7 @@ A web based clinal assistant to detect Heart Disease integrated through Streamli
 
 ![app_view5](https://github.com/user-attachments/assets/a66389bd-9694-4022-a8be-f5ac81ae66ac)
 
+![app_view6](https://github.com/user-attachments/assets/4e2b71c9-0fd0-4b83-8006-774122ee6a00)
+
 ![app_view7](https://github.com/user-attachments/assets/ff9fee7b-ab73-4037-b315-37c186dd960f)
 
